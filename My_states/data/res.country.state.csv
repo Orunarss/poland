@@ -1,2 +1,2 @@
-External ID,State Name,Country,State Code,ID
-base.import-01,Dans ton cul,base.is,1,1
+id,name,code,country_id/id
+import.state_is,Dans_ton_cul,500,base.is
